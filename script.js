@@ -9,7 +9,7 @@ let num2 = parseFloat(prompt("Enter the second number: "));
 let result;
 
 
-
+// Perform the calculation based on the operator
 if (operator === "+") {
     result = num1 + num2;
 }
