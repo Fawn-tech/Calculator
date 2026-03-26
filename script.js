@@ -7,7 +7,7 @@ let operator = prompt("Enter the operator (+, -, *, /): ");
 let num2 = parseFloat(prompt("Enter the second number: "));
 
 let result;
-
+// addition, subtraction, multiplication, division
 
 // Perform the calculation based on the operator
 if (operator === "+") {
