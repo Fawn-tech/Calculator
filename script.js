@@ -10,7 +10,7 @@ let result;
 // addition, subtraction, multiplication, division
 
 // Perform the calculation based on the operator
-if (operator === "+") {
+if (operator === "+") {git
     result = num1 + num2;
 }
 else if (operator === "-") {
@@ -23,7 +23,7 @@ else if (operator === "/") {
     if (num2 !== 0) {
         result = num1 / num2;
     } else {
-        console.log("Error: Division by zero is not allowed.");
+        console.log("Error: Division by zero is not allowed.");git
         return;
     }
 }
